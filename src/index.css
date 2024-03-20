@@ -1,0 +1,31 @@
+:root{
+  --bg-programacao: #D9F7E9;
+  --bg-front-end: #E8F8FF;
+  --bg-data-science: #F0F8E2;
+  --bg-devops: #FDE7E8;
+  --bg-ux-design: #FAE9F5;
+  --bg-mobile: #FFF5D9;
+  --bg-inovacao-gestao: #FFEEDF;
+  
+  --primary-programacao: #57C278;
+  --primary-front-end: #82CFFA;
+  --primary-data-science: #A6D157;
+  --primary-devops: #E06B69;
+  --primary-ux-design: #DB6EBF;
+  --primary-mobile: #FFBA05;
+  --primary-inovacao-gestao: #FF8A29;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
